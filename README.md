@@ -1,4 +1,4 @@
-# TermuXPort
+# TermuXPort 0.1
 A Simple script to allow you to import and export files to Termux
 
 This script makes transfering files to and from Termux easier! This script is intended for Noobs but anyone can use it!
